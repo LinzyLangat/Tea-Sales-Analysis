@@ -34,13 +34,13 @@ The analysis was carried out in Power BI Desktop. Key measures and visuals were 
 ## Power BI Dashboard Screenshots
 
 ### Overview
-![Overview Dashboard](overview.png)
+![Overview Dashboard](Overview.png)
 
 ### Employee Performance
-![Employee Performance Dashboard](employee_performance.png)
+![Employee Performance Dashboard](Employee_Performance.png)
 
 ### Daily & Weekly Analysis
-![Daily & Weekly Analysis Dashboard](daily_weekly_analysis.png)
+![Daily & Weekly Analysis Dashboard](Daily_&_Weekly_Analysis.png)
 
 ## Tools Used
 - Microsoft Excel – Data collection and cleaning
